@@ -1,0 +1,7 @@
+E:\Week 8\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Week 8\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Week 8\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Week 8\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Week 8\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Week 8\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Week 8\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

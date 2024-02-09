@@ -1,0 +1,7 @@
+D:\OOP 23\alaw\siii\bin\Debug\siii.exe.config
+D:\OOP 23\alaw\siii\bin\Debug\siii.exe
+D:\OOP 23\alaw\siii\bin\Debug\siii.pdb
+D:\OOP 23\alaw\siii\obj\Debug\siii.csproj.AssemblyReference.cache
+D:\OOP 23\alaw\siii\obj\Debug\siii.csproj.CoreCompileInputs.cache
+D:\OOP 23\alaw\siii\obj\Debug\siii.exe
+D:\OOP 23\alaw\siii\obj\Debug\siii.pdb

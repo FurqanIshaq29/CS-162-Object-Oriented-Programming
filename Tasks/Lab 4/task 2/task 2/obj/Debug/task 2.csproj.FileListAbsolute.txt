@@ -1,0 +1,7 @@
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\bin\Debug\task 2.exe.config
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\bin\Debug\task 2.exe
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\bin\Debug\task 2.pdb
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\obj\Debug\task 2.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\obj\Debug\task 2.exe
+D:\Object Oriented Programming 2023\week 4\lab 4\task 2\task 2\obj\Debug\task 2.pdb

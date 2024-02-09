@@ -1,0 +1,7 @@
+D:\OOP 23\WorkShop\bin\Debug\WorkShop.exe.config
+D:\OOP 23\WorkShop\bin\Debug\WorkShop.exe
+D:\OOP 23\WorkShop\bin\Debug\WorkShop.pdb
+D:\OOP 23\WorkShop\obj\Debug\WorkShop.csproj.AssemblyReference.cache
+D:\OOP 23\WorkShop\obj\Debug\WorkShop.csproj.CoreCompileInputs.cache
+D:\OOP 23\WorkShop\obj\Debug\WorkShop.exe
+D:\OOP 23\WorkShop\obj\Debug\WorkShop.pdb

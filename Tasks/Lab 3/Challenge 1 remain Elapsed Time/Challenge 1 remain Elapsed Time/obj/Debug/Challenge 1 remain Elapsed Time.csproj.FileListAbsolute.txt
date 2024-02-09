@@ -1,0 +1,11 @@
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\bin\Debug\Challenge 1 remain Elapsed Time.exe.config
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\bin\Debug\Challenge 1 remain Elapsed Time.exe
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\bin\Debug\Challenge 1 remain Elapsed Time.pdb
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.exe
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.pdb
+E:\Furqan\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.csproj.AssemblyReference.cache
+E:\Furqan\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.csproj.CoreCompileInputs.cache
+E:\Furqan\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.exe
+E:\Furqan\lab 3\Challenge 1 remain Elapsed Time\Challenge 1 remain Elapsed Time\obj\Debug\Challenge 1 remain Elapsed Time.pdb

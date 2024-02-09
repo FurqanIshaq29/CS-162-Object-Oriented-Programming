@@ -1,0 +1,7 @@
+D:\OOP 23\SignupSignin\SignupSignin\bin\Debug\SignupSignin.exe.config
+D:\OOP 23\SignupSignin\SignupSignin\bin\Debug\SignupSignin.exe
+D:\OOP 23\SignupSignin\SignupSignin\bin\Debug\SignupSignin.pdb
+D:\OOP 23\SignupSignin\SignupSignin\obj\Debug\SignupSignin.csproj.AssemblyReference.cache
+D:\OOP 23\SignupSignin\SignupSignin\obj\Debug\SignupSignin.csproj.CoreCompileInputs.cache
+D:\OOP 23\SignupSignin\SignupSignin\obj\Debug\SignupSignin.exe
+D:\OOP 23\SignupSignin\SignupSignin\obj\Debug\SignupSignin.pdb

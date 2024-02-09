@@ -1,0 +1,2 @@
+D:\OOP 23\ems\obj\Debug\ems.csproj.AssemblyReference.cache
+D:\OOP 23\ems\obj\Debug\ems.csproj.CoreCompileInputs.cache

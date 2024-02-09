@@ -1,0 +1,2 @@
+D:\quiz\Incecream(2022R2021cs199)\obj\Debug\Incecream(2022R2021cs199).csproj.AssemblyReference.cache
+D:\quiz\Incecream(2022R2021cs199)\obj\Debug\Incecream(2022R2021cs199).csproj.CoreCompileInputs.cache

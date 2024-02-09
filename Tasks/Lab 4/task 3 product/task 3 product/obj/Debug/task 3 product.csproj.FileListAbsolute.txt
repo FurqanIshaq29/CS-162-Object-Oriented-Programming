@@ -1,0 +1,7 @@
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\bin\Debug\task 3 product.exe.config
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\bin\Debug\task 3 product.exe
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\bin\Debug\task 3 product.pdb
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\obj\Debug\task 3 product.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\obj\Debug\task 3 product.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\obj\Debug\task 3 product.exe
+D:\Object Oriented Programming 2023\week 4\lab 4\task 3 product\task 3 product\obj\Debug\task 3 product.pdb

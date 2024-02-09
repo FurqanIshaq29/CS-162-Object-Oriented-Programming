@@ -1,0 +1,7 @@
+D:\OOP 23\extras\bin\Debug\extras.exe.config
+D:\OOP 23\extras\bin\Debug\extras.exe
+D:\OOP 23\extras\bin\Debug\extras.pdb
+D:\OOP 23\extras\obj\Debug\extras.csproj.AssemblyReference.cache
+D:\OOP 23\extras\obj\Debug\extras.csproj.CoreCompileInputs.cache
+D:\OOP 23\extras\obj\Debug\extras.exe
+D:\OOP 23\extras\obj\Debug\extras.pdb

@@ -1,0 +1,7 @@
+D:\OOP 23\week 5 original\sort\bin\Debug\sort.exe.config
+D:\OOP 23\week 5 original\sort\bin\Debug\sort.exe
+D:\OOP 23\week 5 original\sort\bin\Debug\sort.pdb
+D:\OOP 23\week 5 original\sort\obj\Debug\sort.csproj.AssemblyReference.cache
+D:\OOP 23\week 5 original\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+D:\OOP 23\week 5 original\sort\obj\Debug\sort.exe
+D:\OOP 23\week 5 original\sort\obj\Debug\sort.pdb

@@ -1,0 +1,7 @@
+D:\OOP 23\Week 3\parameterizedconstructor\bin\Debug\parameterizedconstructor.exe.config
+D:\OOP 23\Week 3\parameterizedconstructor\bin\Debug\parameterizedconstructor.exe
+D:\OOP 23\Week 3\parameterizedconstructor\bin\Debug\parameterizedconstructor.pdb
+D:\OOP 23\Week 3\parameterizedconstructor\obj\Debug\parameterizedconstructor.csproj.CoreCompileInputs.cache
+D:\OOP 23\Week 3\parameterizedconstructor\obj\Debug\parameterizedconstructor.exe
+D:\OOP 23\Week 3\parameterizedconstructor\obj\Debug\parameterizedconstructor.pdb
+D:\OOP 23\Week 3\parameterizedconstructor\obj\Debug\parameterizedconstructor.csproj.AssemblyReference.cache

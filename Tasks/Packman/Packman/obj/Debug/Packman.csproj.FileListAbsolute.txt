@@ -1,0 +1,10 @@
+D:\OOP 23\Packman\Packman\obj\Debug\Packman.csproj.AssemblyReference.cache
+D:\OOP 23\Packman\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache
+D:\OOP 23\Packman\Packman\bin\Debug\Packman.exe.config
+D:\OOP 23\Packman\Packman\bin\Debug\Packman.exe
+D:\OOP 23\Packman\Packman\bin\Debug\Packman.pdb
+D:\OOP 23\Packman\Packman\bin\Debug\EZInput.dll
+D:\OOP 23\Packman\Packman\bin\Debug\EZInput.xml
+D:\OOP 23\Packman\Packman\obj\Debug\Packman.csproj.CopyComplete
+D:\OOP 23\Packman\Packman\obj\Debug\Packman.exe
+D:\OOP 23\Packman\Packman\obj\Debug\Packman.pdb

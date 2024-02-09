@@ -1,0 +1,7 @@
+D:\OOP 23\week 5 original\SelfAssessment1\bin\Debug\SelfAssessment1.exe.config
+D:\OOP 23\week 5 original\SelfAssessment1\bin\Debug\SelfAssessment1.exe
+D:\OOP 23\week 5 original\SelfAssessment1\bin\Debug\SelfAssessment1.pdb
+D:\OOP 23\week 5 original\SelfAssessment1\obj\Debug\SelfAssessment1.csproj.AssemblyReference.cache
+D:\OOP 23\week 5 original\SelfAssessment1\obj\Debug\SelfAssessment1.csproj.CoreCompileInputs.cache
+D:\OOP 23\week 5 original\SelfAssessment1\obj\Debug\SelfAssessment1.exe
+D:\OOP 23\week 5 original\SelfAssessment1\obj\Debug\SelfAssessment1.pdb

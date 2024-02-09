@@ -1,0 +1,7 @@
+D:\OOP 23\Week1FileHandling\Week1FileHandling\bin\Debug\Week1FileHandling.exe.config
+D:\OOP 23\Week1FileHandling\Week1FileHandling\bin\Debug\Week1FileHandling.exe
+D:\OOP 23\Week1FileHandling\Week1FileHandling\bin\Debug\Week1FileHandling.pdb
+D:\OOP 23\Week1FileHandling\Week1FileHandling\obj\Debug\Week1FileHandling.csproj.AssemblyReference.cache
+D:\OOP 23\Week1FileHandling\Week1FileHandling\obj\Debug\Week1FileHandling.csproj.CoreCompileInputs.cache
+D:\OOP 23\Week1FileHandling\Week1FileHandling\obj\Debug\Week1FileHandling.exe
+D:\OOP 23\Week1FileHandling\Week1FileHandling\obj\Debug\Week1FileHandling.pdb

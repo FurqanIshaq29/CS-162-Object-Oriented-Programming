@@ -1,0 +1,7 @@
+D:\OOP 23\Bro Code\C1\bin\Debug\C1.exe.config
+D:\OOP 23\Bro Code\C1\bin\Debug\C1.exe
+D:\OOP 23\Bro Code\C1\bin\Debug\C1.pdb
+D:\OOP 23\Bro Code\C1\obj\Debug\C1.csproj.AssemblyReference.cache
+D:\OOP 23\Bro Code\C1\obj\Debug\C1.csproj.CoreCompileInputs.cache
+D:\OOP 23\Bro Code\C1\obj\Debug\C1.exe
+D:\OOP 23\Bro Code\C1\obj\Debug\C1.pdb

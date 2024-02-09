@@ -1,0 +1,7 @@
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\bin\Debug\Challenge 2 Product Management.exe.config
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\bin\Debug\Challenge 2 Product Management.exe
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\bin\Debug\Challenge 2 Product Management.pdb
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\obj\Debug\Challenge 2 Product Management.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\obj\Debug\Challenge 2 Product Management.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\obj\Debug\Challenge 2 Product Management.exe
+D:\Object Oriented Programming 2023\week 3\lab 3\Challenge 2 Product Management\Challenge 2 Product Management\obj\Debug\Challenge 2 Product Management.pdb

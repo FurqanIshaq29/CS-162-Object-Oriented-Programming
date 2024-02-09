@@ -1,0 +1,7 @@
+D:\OOP 23\week 5 original\Sortingbyinputint\bin\Debug\Sortingbyinputint.exe.config
+D:\OOP 23\week 5 original\Sortingbyinputint\bin\Debug\Sortingbyinputint.exe
+D:\OOP 23\week 5 original\Sortingbyinputint\bin\Debug\Sortingbyinputint.pdb
+D:\OOP 23\week 5 original\Sortingbyinputint\obj\Debug\Sortingbyinputint.csproj.AssemblyReference.cache
+D:\OOP 23\week 5 original\Sortingbyinputint\obj\Debug\Sortingbyinputint.csproj.CoreCompileInputs.cache
+D:\OOP 23\week 5 original\Sortingbyinputint\obj\Debug\Sortingbyinputint.exe
+D:\OOP 23\week 5 original\Sortingbyinputint\obj\Debug\Sortingbyinputint.pdb

@@ -1,0 +1,10 @@
+D:\OOP 23\Lab 9\Signup\bin\Debug\Signup.exe.config
+D:\OOP 23\Lab 9\Signup\bin\Debug\Signup.exe
+D:\OOP 23\Lab 9\Signup\bin\Debug\Signup.pdb
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.csproj.AssemblyReference.cache
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.Form1.resources
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.Properties.Resources.resources
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.csproj.GenerateResource.cache
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.csproj.CoreCompileInputs.cache
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.exe
+D:\OOP 23\Lab 9\Signup\obj\Debug\Signup.pdb
